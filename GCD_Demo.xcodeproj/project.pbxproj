@@ -24,6 +24,7 @@
 		FBD5413B29DC628B004581AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBD5413E29DC628B004581AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBD5414029DC628B004581AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBD5414629DC64B0004581AF /* DispatchQueue.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DispatchQueue.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				FBD5413B29DC628B004581AF /* Assets.xcassets */,
 				FBD5413D29DC628B004581AF /* LaunchScreen.storyboard */,
 				FBD5414029DC628B004581AF /* Info.plist */,
+				FBD5414629DC64B0004581AF /* DispatchQueue.playground */,
 			);
 			path = GCD_Demo;
 			sourceTree = "<group>";
